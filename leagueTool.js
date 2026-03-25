@@ -1,5 +1,7 @@
 /**
  * @author ttkienn (Thiệu Trung Kiên)
+ * @facebook: https://www.facebook.com/ttkiennn
+ * @tele: t.me/vel1x0
  * @created 2026-03-25
  */
 
