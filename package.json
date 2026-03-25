@@ -1,0 +1,17 @@
+{
+  "name": "league-tool",
+  "version": "1.0.0",
+  "description": "Tool hỗ trợ thay đổi trạng thái, avatar, rank, background cho League of Legends Client (LCU)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiệu Trung Kiên",
+  "license": "MIT",
+  "dependencies": {
+    "league-connect": "^6.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
